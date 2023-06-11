@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/detailBarrierStrong_typeB.obj-2eddd54a445097f2ad684321e8ced114.mesh"
+
+[deps]
+
+files=[ "res://.import/detailBarrierStrong_typeB.obj-2eddd54a445097f2ad684321e8ced114.mesh" ]
+
+source_file="res://retro_urban_kit_1.0/detailBarrierStrong_typeB.obj"
+dest_files=[ "res://.import/detailBarrierStrong_typeB.obj-2eddd54a445097f2ad684321e8ced114.mesh", "res://.import/detailBarrierStrong_typeB.obj-2eddd54a445097f2ad684321e8ced114.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

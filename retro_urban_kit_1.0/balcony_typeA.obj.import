@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/balcony_typeA.obj-6385cf795e87b2d6cd1a2a82cfa4d860.mesh"
+
+[deps]
+
+files=[ "res://.import/balcony_typeA.obj-6385cf795e87b2d6cd1a2a82cfa4d860.mesh" ]
+
+source_file="res://retro_urban_kit_1.0/balcony_typeA.obj"
+dest_files=[ "res://.import/balcony_typeA.obj-6385cf795e87b2d6cd1a2a82cfa4d860.mesh", "res://.import/balcony_typeA.obj-6385cf795e87b2d6cd1a2a82cfa4d860.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

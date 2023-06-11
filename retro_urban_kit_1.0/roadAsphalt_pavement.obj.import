@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/roadAsphalt_pavement.obj-99ff753e0113f8cdeed0a29104344d5f.mesh"
+
+[deps]
+
+files=[ "res://.import/roadAsphalt_pavement.obj-99ff753e0113f8cdeed0a29104344d5f.mesh" ]
+
+source_file="res://retro_urban_kit_1.0/roadAsphalt_pavement.obj"
+dest_files=[ "res://.import/roadAsphalt_pavement.obj-99ff753e0113f8cdeed0a29104344d5f.mesh", "res://.import/roadAsphalt_pavement.obj-99ff753e0113f8cdeed0a29104344d5f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

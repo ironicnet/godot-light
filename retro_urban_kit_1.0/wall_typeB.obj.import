@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wall_typeB.obj-89c8899fbcfe0d87f6ee16fada6277ad.mesh"
+
+[deps]
+
+files=[ "res://.import/wall_typeB.obj-89c8899fbcfe0d87f6ee16fada6277ad.mesh" ]
+
+source_file="res://retro_urban_kit_1.0/wall_typeB.obj"
+dest_files=[ "res://.import/wall_typeB.obj-89c8899fbcfe0d87f6ee16fada6277ad.mesh", "res://.import/wall_typeB.obj-89c8899fbcfe0d87f6ee16fada6277ad.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

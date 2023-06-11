@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/roadDirt_corner.obj-7cd6120935f8036f1147a3497cf4674e.mesh"
+
+[deps]
+
+files=[ "res://.import/roadDirt_corner.obj-7cd6120935f8036f1147a3497cf4674e.mesh" ]
+
+source_file="res://retro_urban_kit_1.0/roadDirt_corner.obj"
+dest_files=[ "res://.import/roadDirt_corner.obj-7cd6120935f8036f1147a3497cf4674e.mesh", "res://.import/roadDirt_corner.obj-7cd6120935f8036f1147a3497cf4674e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

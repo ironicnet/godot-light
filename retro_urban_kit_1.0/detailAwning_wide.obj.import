@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/detailAwning_wide.obj-8125c439cc17b6e1c258ef84e1264978.mesh"
+
+[deps]
+
+files=[ "res://.import/detailAwning_wide.obj-8125c439cc17b6e1c258ef84e1264978.mesh" ]
+
+source_file="res://retro_urban_kit_1.0/detailAwning_wide.obj"
+dest_files=[ "res://.import/detailAwning_wide.obj-8125c439cc17b6e1c258ef84e1264978.mesh", "res://.import/detailAwning_wide.obj-8125c439cc17b6e1c258ef84e1264978.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/truck_flat.obj-c75c14d68765f1e77e343590f5ca270b.mesh"
+
+[deps]
+
+files=[ "res://.import/truck_flat.obj-c75c14d68765f1e77e343590f5ca270b.mesh" ]
+
+source_file="res://retro_urban_kit_1.0/truck_flat.obj"
+dest_files=[ "res://.import/truck_flat.obj-c75c14d68765f1e77e343590f5ca270b.mesh", "res://.import/truck_flat.obj-c75c14d68765f1e77e343590f5ca270b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tree_small.obj-d112a7a3e63f84cefdb0cb1e3561e426.mesh"
+
+[deps]
+
+files=[ "res://.import/tree_small.obj-d112a7a3e63f84cefdb0cb1e3561e426.mesh" ]
+
+source_file="res://retro_urban_kit_1.0/tree_small.obj"
+dest_files=[ "res://.import/tree_small.obj-d112a7a3e63f84cefdb0cb1e3561e426.mesh", "res://.import/tree_small.obj-d112a7a3e63f84cefdb0cb1e3561e426.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
